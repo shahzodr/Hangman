@@ -3,7 +3,7 @@
 JetBrains Hyperskill
 
 **About**<br>
-Hangman is a popular yet grim puzzle game. A cruel computer hides a word from you, which you try to guess letter by letter. If you fail, you'll be “hanged”. If you win, you'll survive. You’ve probably played the game at least once or twice.
+Everybody remembers this paper-and-pencil game from childhood: Tic-Tac-Toe, also known as Noughts and crosses or Xs and Os. A single mistake usually costs you the game, but thankfully it is simple enough that most players discover the best strategy quickly.
 
 **Learning outcomes**<br>
-With functions, loops, lists and other variables, this is a great project for Python basics. As a cherry on top, it even includes a random module.
+Planning and developing a complex program from scratch, using functions, handling errors, and processing user input.
